@@ -113,7 +113,7 @@ public class Login extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         if (resultCode == Activity.RESULT_OK)
             switch (requestCode) {
-                case 102:
+                case 101:
                     try {
                         // The Task returned from this call is always completed, no need to attach
                         // a listener.
