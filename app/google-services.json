@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933059091020",
+    "firebase_url": "https://resipsave-231fd.firebaseio.com",
+    "project_id": "resipsave-231fd",
+    "storage_bucket": "resipsave-231fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933059091020:android:7bcf52a8b1b933c1",
+        "android_client_info": {
+          "package_name": "com.resipsave.resipsave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933059091020-131jrs6vct412936b0rjeob67vk8c831.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resipsave.resipsave",
+            "certificate_hash": "275795b77cbafe5e773557152db0efe57f220062"
+          }
+        },
+        {
+          "client_id": "933059091020-a1rt3c3he3q2s78r186hhq8ooaiqousv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyLnbhrnzQb7OJsLrmce3OMP2W2rvp2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933059091020-ic46kl6lfiamdijhn78oko9rd629prfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
